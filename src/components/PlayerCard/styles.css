@@ -1,0 +1,29 @@
+.PlayerCard {
+    background-color: rgb(26, 13, 148);
+	margin:5px;
+    padding:10px;
+    border-radius: 25px;
+}
+.picture {
+    align-self: center;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
+
+.info {
+    padding: 10px;
+    display: inline-block;
+    align-items: left; 
+    font-family: 'Courier New', monospace;
+    vertical-align: top;
+    color: white;
+}
+
+
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
