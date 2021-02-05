@@ -7,7 +7,7 @@ import TeamCard from './components/TeamCard'
 
 ReactDOM.render(
   <React.StrictMode>
-    <PlayerCard />
+   
     <TeamCard />
   </React.StrictMode>,
   document.getElementById('root')
